@@ -1,0 +1,4 @@
+net/breezeware/rpcvehicleinfopdfpoc/service/api/VehicleInfoService.class
+net/breezeware/rpcvehicleinfopdfpoc/controller/VehicleInfoController.class
+net/breezeware/rpcvehicleinfopdfpoc/RpcVehicleInfoPdfPocApplication.class
+net/breezeware/rpcvehicleinfopdfpoc/service/impl/VehicleInfoServiceImpl.class

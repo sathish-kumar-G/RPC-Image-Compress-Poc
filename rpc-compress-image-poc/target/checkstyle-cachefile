@@ -1,0 +1,8 @@
+#Thu Nov 02 10:33:48 IST 2023
+configuration*?=86413DF1148072453F8C0283087CFD9878BC3F2C
+/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/java/net/breezeware/rpcvehicleinfopdfpoc/service/impl/VehicleInfoServiceImpl.java=1698900936228
+module-resource*?\:checkstyle-xpath-suppressions.xml=FDB43B02C1334C973647232CEBE4BB277445C3A2
+/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/resources/application.properties=1698901264003
+module-resource*?\:https\://breezeware-dev-config.s3.amazonaws.com/suppressions.xml=9CD45AC86E0C5E44F3AA1AECE890D21E0AFD3E44
+/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/java/net/breezeware/rpcvehicleinfopdfpoc/controller/VehicleInfoController.java=1698901312987
+/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/java/net/breezeware/rpcvehicleinfopdfpoc/RpcVehicleInfoPdfPocApplication.java=1698744481376

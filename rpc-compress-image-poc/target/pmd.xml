@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd" version="6.38.0" timestamp="2023-11-02T10:33:49.276">
+<file name="/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/java/net/breezeware/rpcvehicleinfopdfpoc/RpcVehicleInfoPdfPocApplication.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="61" rule="UnnecessaryImport" ruleset="Code Style" package="net.breezeware.rpcvehicleinfopdfpoc" class="RpcVehicleInfoPdfPocApplication" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.context.annotation.PropertySource'
+</violation>
+<violation beginline="8" endline="8" begincolumn="1" endcolumn="62" rule="UnnecessaryImport" ruleset="Code Style" package="net.breezeware.rpcvehicleinfopdfpoc" class="RpcVehicleInfoPdfPocApplication" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#unnecessaryimport" priority="4">
+Unused import 'org.springframework.context.annotation.PropertySources'
+</violation>
+</file>
+<file name="/home/sathish/code_commit/POC/rpc-vehicle-info-pdf-poc/src/main/java/net/breezeware/rpcvehicleinfopdfpoc/service/impl/VehicleInfoServiceImpl.java">
+<violation beginline="239" endline="239" begincolumn="21" endcolumn="48" rule="UselessParentheses" ruleset="Code Style" package="net.breezeware.rpcvehicleinfopdfpoc.service.impl" class="VehicleInfoServiceImpl" method="createVehicleImagesTable" externalInfoUrl="https://pmd.github.io/pmd-6.38.0/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+</pmd>
